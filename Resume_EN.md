@@ -61,7 +61,7 @@ Publications
 	* Patentee of "A modular forensic system based on hardware virtualization". Application No. 201410202898.0  
 	* Patentee of "Collect and intercept memory behavior on a running system". Application No. 201410203373.9 	
 - **Essays**
-	* Investigating the Hooking Behavior: A page-level memory monitoring method for Live Forensics. ISC 2014 in Hong Kong University. (Waiting for notification)
+	* Investigating the Hooking Behavior: A page-level memory monitoring method for Live Forensics. ISC 2014 in Hong Kong University. (Accepted)
 
 ![avatar](/img/avatar.bmp "Yingxin Cheng") 
-![QRcode](/img/qr.bmp "https://github.com/cyx1231st/Resume")
+![QRcode](/img/qr.bmp "https://github.com/yingxincheng/resume1")

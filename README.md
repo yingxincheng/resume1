@@ -8,8 +8,8 @@ This is my resume --
 [中文版本][CN]
 
 
-[EN]: https://github.com/cyx1231st/Resume/blob/master/Resume_EN.md "English"
-[CN]: https://github.com/cyx1231st/Resume/blob/master/Resume_CN.md "Chinese"
+[EN]: https://github.com/yingxincheng/resume1/blob/master/Resume_EN.md "English"
+[CN]: https://github.com/yingxincheng/resume1/blob/master/Resume_CN.md "Chinese"
 
 
 

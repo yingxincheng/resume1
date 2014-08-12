@@ -5,7 +5,7 @@
 个人背景
 --------
 
-- 技术背景：>技术背景：硬件虚拟化技术（熟悉）、算法（掌握）、Intel体系结构（熟悉）、Java EE（了解）。
+- 技术背景：硬件虚拟化技术（熟悉）、算法（掌握）、Intel体系结构（熟悉）、Java EE（了解）。
 
 - 语言背景：C++（2年）、Java（4年）、C（2年）、Python（了解）。
 
@@ -62,8 +62,8 @@
 	* 《一种用于收集和截获计算机内存行为的蜜罐机制及其方法》发明人。申请号：201410203373.9
 
 - **论文**
-	* Investigating the Hooking Behavior: A page-level memory monitoring method for Live Forensics. 第一作者。（已提交会议：ISC2014，香港大学）
+	* Investigating the Hooking Behavior: A page-level memory monitoring method for Live Forensics. 第一作者。（已接受：ISC2014，香港大学）
 
 
 ![avatar](/img/avatar.bmp "程盈心") 
-![QRcode](/img/qr.bmp "https://github.com/cyx1231st/Resume")
+![QRcode](/img/qr.bmp "https://github.com/yingxincheng/resume1")
